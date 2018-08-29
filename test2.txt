@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DE00-493D
+
+ Directory of C:\Users\user\Desktop\MyProject
+
+08/29/2018  09:48 AM    <DIR>          .
+08/29/2018  09:48 AM    <DIR>          ..
+08/28/2018  10:24 PM                10 test1.txt
+08/29/2018  09:48 AM                 0 test2.txt
+               2 File(s)             10 bytes
+               2 Dir(s)  41,246,396,416 bytes free
